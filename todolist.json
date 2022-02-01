@@ -32,5 +32,9 @@
             }
         }
     ],
+    "externalDocs": {
+        "description": "Github Yusuf Nur Wahid",
+        "url": "https://github.io/ynwahid/"
+    },
     "paths": {}
 }
