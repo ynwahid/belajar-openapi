@@ -36,5 +36,22 @@
         "description": "Github Yusuf Nur Wahid",
         "url": "https://github.io/ynwahid/"
     },
-    "paths": {}
+    "paths": {
+        "/todolist": {
+            "get": {
+                
+            },
+            "post": {
+
+            }
+        },
+        "/todolist/{todolistId}": {
+            "put": {
+
+            },
+            "delete": {
+                
+            }
+        }
+    }
 }
